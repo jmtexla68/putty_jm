@@ -1,0 +1,11 @@
+Para insertar fotos de Flickr en blogger:
+Foto individual; seleccionar una foto para verla en tamaño grande, darle a la flecha de compartir, elegir HTML > HTML elegir el tamaño deseado, normal 500x375.
+
+Todas las fotos (pasandolas con las flechas) elegir el tamaño y seleccionar HTML > Insertar
+
+Para insertar presentación de imagenes; seleccionar el album deseado y  con el boton derecho sobre el icono (carpeta con play) copiar acceso directo, tipo: https://www.flickr.com/photos/91701598@N06/sets/72157649867732755/show/
+
+--------------------------------------------------
+para añadir fotos desde Google:
+desde Chrome Copiar URL de imagen
+desde explorer solo Copiar
